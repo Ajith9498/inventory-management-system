@@ -1,5 +1,5 @@
 # inventory-management-system![inv 1](https://user-images.githubusercontent.com/125473609/219051889-e83c6358-3f71-419b-9dd7-cf63db3c5df4.jpg)
-decription
+An inventory management system project that allows user to manage and maintain his/her inventory with ease. The inventory management system has been developed to allow users to add an inventory, delete an inventory, enter inventory quantity and other details, update inventory status and more.
 ![inv 2](https://user-images.githubusercontent.com/125473609/219098022-75776e2a-2c05-463a-aa37-df7491e33f28.jpg)
 ![inv 3](https://user-images.githubusercontent.com/125473609/219098258-d96868b8-6e63-4ecf-b28a-5b1e194c713e.jpg)
 ![inv 4](https://user-images.githubusercontent.com/125473609/219098598-18044f01-1a90-4fb9-9a77-b02b8d4ac0d0.jpg)
